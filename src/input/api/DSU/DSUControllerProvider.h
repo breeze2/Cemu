@@ -11,7 +11,7 @@
 #define HAS_DSU 1
 #endif
 
-// #define DEBUG_DSU_CLIENT
+#define DEBUG_DSU_CLIENT 1
 
 struct DSUProviderSettings : public ControllerProviderSettings
 {
